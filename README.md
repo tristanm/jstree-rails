@@ -1,4 +1,4 @@
-# jsTreeRails
+# jsTree-Rails
 
 Makes including jsTree in Rails 3.1 projects a breeze.
 
