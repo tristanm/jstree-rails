@@ -22,7 +22,7 @@ jsTree needs to be included after jQuery in your javascript manifest:
 
 Add the stylesheets to application.css:
 
-    *= require jstree-themes/[theme]/style # theme: apple, classic, default, default-rtl
+    *= require jstree-themes/default/style
 
 ### Themes
 
@@ -31,7 +31,7 @@ Ideally, all your stylesheets should be concatenated and loaded in as few reques
 Use themes the way you normally would but DON'T specify a URL:
 
     // CoffeeScript
-    
+
     jQuery ->
         $('.tree').jstree
             plugins:
