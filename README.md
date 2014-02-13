@@ -1,6 +1,6 @@
 # jsTree-Rails
 
-This gem packages the jsTree plugin for easy use with the Rails 3.1+ asset pipleine.
+This gem packages the jsTree plugin (version 3.0.0-beta7) for easy use with the Rails 3.1+ asset pipleine.
 
 ## Installation
 
