@@ -12,4 +12,5 @@ Gem::Specification.new do |s|
   s.files       = `git ls-files`.split("\n")
 
   s.add_dependency 'rails', '>= 3.1'
+  s.add_dependency 'non-stupid-digest-assets', '~> 1.0'
 end
