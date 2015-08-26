@@ -1,3 +1,7 @@
+** NO LONGER IN DEVELOPMENT **
+
+I recommend installing jsTree from rails-assets.org instead.
+
 # jsTree-Rails
 
 Makes including jsTree in Rails 3.1 projects a breeze.
