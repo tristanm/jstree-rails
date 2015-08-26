@@ -1,4 +1,4 @@
-** NO LONGER IN DEVELOPMENT **
+**NO LONGER IN DEVELOPMENT**
 
 I recommend installing jsTree from rails-assets.org instead.
 
